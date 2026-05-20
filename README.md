@@ -107,7 +107,7 @@ Two methods were used to determine the best number of clusters:
 
 ## 📊 Cluster Analysis — Mean RFM Values
 
-![RFM Cluster Bar Charts](rfm_clusters_colored.png)
+![RFM Cluster Bar Charts](rfm.png)
 
 The bar charts above show the **mean Recency, Frequency, and MonetaryValue** for each of the 5 clusters identified by the K-Means model.
 
@@ -160,25 +160,6 @@ RFM-Customer-Segmentation/
 
 ---
 
-## ▶️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/RFM-Customer-Segmentation.git
-   cd RFM-Customer-Segmentation
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn
-   ```
-
-3. **Run the notebook**
-   - Open `RFM_Exercise.ipynb` in Jupyter or Google Colab
-   - Make sure `rfm.csv` is in the same directory
-   - Run all cells
-
----
 
 ## 🔑 Key Takeaways
 
